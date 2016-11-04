@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1475386503 source:/media/avijit/Light/Google Drive/Documents/term/3-1/numeric/Numerical/main.cpp
+	<bits/stdc++.h>
+	"NumericalMethods.h"
+
+1475386503 /media/avijit/Light/Google Drive/Documents/term/3-1/numeric/Numerical/include/NumericalMethods.h
+
+1475395626 source:/media/avijit/Light/Google Drive/Documents/term/3-1/numeric/Numerical/src/NumericalMethods.cpp
+	"NumericalMethods.h"
+	<bits/stdc++.h>
+
+1477815270 source:f:\google drive\documents\term\3-1\numeric\numerical\main.cpp
+	<bits/stdc++.h>
+	"NumericalMethods.h"
+
+1477815187 f:\google drive\documents\term\3-1\numeric\numerical\include\numericalmethods.h
+
+1477815308 source:f:\google drive\documents\term\3-1\numeric\numerical\src\numericalmethods.cpp
+	"NumericalMethods.h"
+	<bits/stdc++.h>
+
